@@ -1,5 +1,4 @@
-# Juegos_Cartas_Dados
-Ejercicios php 7 con cartas y dados
+# Php 8.1 Ejercicios con cartas y dados
 
 ----
 
